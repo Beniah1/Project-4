@@ -101,3 +101,30 @@ border-width: 1%; */
     /* new shadow with blue color */ 0 0 40px purple; 
   border-radius: 100rem;
 }
+@media (max-width: 600px) {
+    .box1 {
+        width: 80vw; /* Adjust width for smaller screens */
+    }
+
+    .txt1 {
+        font-size: 1.5rem; /* Adjust font size for smaller screens */
+    }
+
+    .icon1 {
+        margin-left: 20px;
+    }
+
+    .icon2 {
+        margin-left: 20px; /* Adjust margin for icon2 */
+    }
+
+    .icon3 {
+        margin-left: 28px; /* Adjust margin for icon3 */
+    }
+
+    .icon4 {
+        margin-left: 45px; /* Adjust margin for icon4 */
+    }
+}
+
+.
