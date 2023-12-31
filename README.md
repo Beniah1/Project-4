@@ -1,27 +1,38 @@
-# Frontend Mentor Challenge
+# Styled Box Animation 🎨
 
-This is a Frontend Mentor challenge that I've been working on. Frontend Mentor challenges allow me to improve my skills in a real-life workflow.
+This project creates an animated box with multi-colored box shadows on hover. Styles are responsive for different screen sizes.
 
-## Description
+## Key Features 🚀
 
-This project is a web page with several sections. Each section contains a question and an associated icon. The questions are about using Frontend Mentor projects in a portfolio and getting help when stuck on a challenge.
+- Animated slide in transition on page load using CSS animations `@keyframes` 💫
+- Multi-colored box shadows added on hover using CSS `box-shadow` property 💠  
+- Styles are responsive for different screen sizes like iPad, phone, tablet, desktop etc using CSS media queries 📱
+- Hover effects change box shadow color and border radius 🍭
 
-## Installation
+## How To Use 🖇
 
-To view this project, you'll need to clone it to your local machine and open the `index.html` file in your browser.
+1. Add the HTML markup with a container div and content inside
+2. Link the style.css file 
+3. The box will slide in from top on page load
+4. Hover over the box to see the multi-colored box shadows 
+5. Resize browser / use dev tools to see responsive styles
 
-## Usage
+## Technologies 🛠
 
-This project is a static web page. To use it, simply open the `index.html` file in your browser.
+- HTML5
+- CSS3
+  - Animations 
+  - Box model
+  - Flexbox
+  - Media queries
+- CSS custom properties 
 
-## Contributing
+## Resources 📚
 
-Contributions are welcome. If you find a bug or have a feature request, please open an issue.
+- [CSS Animations](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Animations)
+- [Box Shadow](https://developer.mozilla.org/en-US/docs/Web/CSS/box-shadow)
+- [Media Queries](https://developer.mozilla.org/en-US/docs/Web/CSS/Media_Queries/Using_media_queries)
 
-## Credits
+## Author 👩‍💻
 
-This project wouldn't be possible without [Frontend Mentor](https://www.frontendmentor.io/), which provides the challenges that help me improve my frontend development skills.
-
-## License
-
-This project is licensed under the MIT License.
+Beniah Opong Diallo
